@@ -1,6 +1,6 @@
 function Navbar() {
 	return (
-		<nav className="navbar border-b-4 border-secondary bg-base-100 shadow-sm">
+		<nav className="navbar fixed border-b-4 border-secondary bg-base-100 shadow-sm">
 			<div className="flex-1">
 				<a className="btn btn-ghost text-xl">Randall Wolfe</a>
 			</div>
