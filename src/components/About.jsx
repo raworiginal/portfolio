@@ -1,8 +1,7 @@
 function About() {
 	return (
-		<div className="flex flex-col pt-6 px-6 mx-auto max-w-xl">
-			<h1 className="text-5xl font-bold">About Me</h1>
-			<p className="pt-4 text-justify">
+		<div className="flex flex-col font-semibold px-4 mx-auto max-w-xl">
+			<p className="pb-4 text-justify">
 				Full-stack software engineer specializing in UX/UI development. I
 				combine 12 years of Teaching and IT management with expertise in
 				MongoDB, Express, React, and Node to create responsive, user-focused
@@ -10,7 +9,7 @@ function About() {
 				digital experiences and fostering team collaboration to deliver
 				high-impact products.
 			</p>
-			<p className="pt-4 text-justify">
+			<p className="pb-4 text-justify">
 				Former Computer Science Teacher with a proven record of increasing
 				student engagement and outcomes, including raising AP Computer Science
 				Principles pass rates by 20 percentage points. Passionate about building
