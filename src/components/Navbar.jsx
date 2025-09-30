@@ -8,13 +8,10 @@ function Navbar() {
 				<ul className="menu menu-horizontal px-1">
 					<div className="hidden md:flex">
 						<li>
-							<a className="btn btn-ghost btn-secondary">About</a>
-						</li>
-						<li>
 							<a className="btn btn-ghost btn-secondary">Projects</a>
 						</li>
 						<li>
-							<a className="btn btn-ghost btn-secondary">Blog</a>
+							<a className="btn btn-ghost btn-secondary">About</a>
 						</li>
 					</div>
 					<li className="md:hidden">
@@ -23,13 +20,10 @@ function Navbar() {
 
 							<ul className="bg-base-100 rounded-t-none p-2">
 								<li>
-									<a className="btn btn-ghost btn-secondary">About</a>
-								</li>
-								<li>
 									<a className="btn btn-ghost btn-secondary">Projects</a>
 								</li>
 								<li>
-									<a className="btn btn-ghost btn-secondary">Blog</a>
+									<a className="btn btn-ghost btn-secondary">About</a>
 								</li>
 							</ul>
 						</details>

@@ -40,14 +40,12 @@ function Projects() {
 	};
 
 	return (
-		<section className="">
-			<div className="flex border flex-wrap justify-center gap-4">
-				<ProjectCard project={projects.pop5} />
-				<ProjectCard project={projects.bleepr} />
-				<ProjectCard project={projects.cryptidex} />
-				<ProjectCard project={projects.masterMind} />
-			</div>
-		</section>
+		<div className="flex flex-wrap justify-center gap-4 sm:max-w-1/2 m-auto">
+			<ProjectCard project={projects.pop5} />
+			<ProjectCard project={projects.bleepr} />
+			<ProjectCard project={projects.cryptidex} />
+			<ProjectCard project={projects.masterMind} />
+		</div>
 	);
 }
 export default Projects;

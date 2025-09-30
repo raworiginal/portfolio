@@ -7,7 +7,7 @@ import Divider from "./components/Divider";
 function App() {
 	return (
 		<>
-			<Navbar />
+			{/* <Navbar /> */}
 			<Landing />
 			<Divider title={"Projects"} />
 			<Projects />

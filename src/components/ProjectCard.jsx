@@ -1,7 +1,7 @@
 function ProjectCard({ project }) {
 	return (
 		<article className="h-vh">
-			<div className="min-h-full relative card glass card-lg bg-base-100 w-96 shadow-sm hover:shadow-secondary hover:shadow-xl">
+			<div className="min-h-full relative card glass card-lg bg-base-100 w-96 shadow-sm hover:shadow-primary hover:shadow-md">
 				<figure className="p-4">
 					<div
 						className="bg-cover bg-top bg-no-repeat bg-center h-48 w-full"
