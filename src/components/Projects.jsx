@@ -35,7 +35,7 @@ function Projects() {
 			description:
 				"A Wordle-style deduction game in HTML, CSS, and JavaScript where players guess a 4-color sequence. Responsive CSS Grid UI, and interactive sound design.",
 			techStack: ["HTML", "CSS", "Javascript"],
-			githubLink: "https://github.com/raworiginal/masterind",
+			githubLink: "https://github.com/raworiginal/masterMind",
 		},
 	};
 
